@@ -21,6 +21,11 @@
 cd backend
 pip install fastapi uvicorn requests pdfplumber python-multipart
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
-### 2. 移动端启动
+### 2. 前端启动
 flutter pub get
+
 flutter run
+<img width="452" height="933" alt="屏幕截图 2026-01-12 170206" src="https://github.com/user-attachments/assets/5da74168-9d2a-475e-bc3e-deb3424f8317" />
+<img width="644" height="1314" alt="屏幕截图 2026-01-12 170445" src="https://github.com/user-attachments/assets/ae8ef5f1-395d-4b9d-b0a1-012fddb2a88b" />
+<img width="1631" height="788" alt="屏幕截图 2026-01-12 170502" src="https://github.com/user-attachments/assets/aa7221bc-ff6f-4ed3-b48f-2162f1e593a2" />
+<img width="459" height="934" alt="屏幕截图 2026-01-12 170152" src="https://github.com/user-attachments/assets/986d965b-b19b-40cf-9f44-719e5aee43cd" />
